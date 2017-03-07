@@ -7,6 +7,8 @@
 + create light for sun 
 + make planet move arround the sun 
 + create moon object move around the earth 
+
+
 # How to Run it 
 + download the project and open it by unity engine 
 + open Assets file 
